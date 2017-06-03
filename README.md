@@ -1,3 +1,7 @@
 # estacion-espacial-mossbi
 
-Los conflictos hacen mas interesantes las historias.
+Version [1] del archivo README.md
+
+Cambio experimental a README.
+
+Segundo cambio experimental en README.
